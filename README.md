@@ -1,5 +1,4 @@
 # studyytimer
 동아리과제
 
-
-https://github.com/Hethdv/studyytimer.git
+https://hethdv.github.io/studyytimer/
